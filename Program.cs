@@ -10,6 +10,11 @@ namespace Juego_RPG
     {
         static void Main(string[] args)
         {
+
+
+
+
+
         }
     }
 }
