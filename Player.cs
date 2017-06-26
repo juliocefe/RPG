@@ -100,11 +100,7 @@ namespace Juego_RPG
         }
 
 
-        //public string Name
-        //{
-        //    get { return name; }
-        //    set { name = value; }
-        //}
+
 
     }
 }
